@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Lista de Productos</string>
+    <string name="title_activity_main">Lista de Productos</string>
+    <string name="package_name">com.jeancdev.ioniclist</string>
+    <string name="custom_url_scheme">com.jeancdev.ioniclist</string>
+</resources>
